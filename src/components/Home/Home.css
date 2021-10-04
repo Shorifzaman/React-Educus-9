@@ -1,0 +1,45 @@
+ .header{
+    background-image: url('../../images/slider-img.jpg');
+    background: url(../../images/bg-home.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-bottom: 20px;
+    
+}
+
+.hero h2{
+    font-size: 60px;
+}
+.hero p{
+    font-size: 24px;
+color: #ddd;
+}
+
+.tx-c{
+    color: red;
+}
+  .btn-main {
+    border: 2px solid;
+    background: transparent;
+    outline: 0;
+    font-size: 19px;
+    text-transform: uppercase;
+    padding: 12px 25px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: 0.3s linear;
+  }
+  .btn-white {
+    color: #fff;
+  }
+  .btn-white:hover {
+    background: rgb(161, 161, 161);
+    border-color: rgb(231, 4, 4);
+    color: #d40000;
+  }

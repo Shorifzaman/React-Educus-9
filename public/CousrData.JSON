@@ -1,0 +1,129 @@
+[
+    {
+    
+        "id": 1,
+        "name": "Misba-uz-zaman",
+        "title": "Data Analysis & Statistics",
+        "category": "Data Science",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-3.jpg",
+        "detail": "Data science is a multifaceted field used to gain insights from...",
+        "student": "120",
+        "price": "20.00",
+        "review": "4.5",
+        "Lesson": "22"
+
+        
+    },
+    {
+    
+        "id": 2,
+        "name": "Muhammed Salah Uddin",
+        "title": "Architecture Design",
+        "category": "Art & Design",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-1.jpg",
+        "detail": "Eudcus offers free online architecture courses and MOOCs from top...",
+        "student": "121",
+        "price": "18.00",
+        "review": "4.8",
+        "Lesson": "15"
+        
+    },
+    {
+    
+        "id": 3,
+        "name": "Khaled Ahmed",
+        "title": "Business & Management",
+        "category": "Business",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-2.jpg",
+        "detail": "Master essential business concepts and practical skills to take...",
+        "student": "213",
+        "price": "23.00",
+        "review": "4.9",
+        "Lesson": "29"
+        
+    },
+    {
+    
+        "id": 4,
+        "name": "Md: Harun Or Roshid",
+        "title": "Environmental Studies",
+        "category": "Lifestyle",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-4.jpg",
+        "detail": "Take online courses in environmental science, natural resource...",
+        "student": "110",
+        "price": "17.00",
+        "review": "4.4",
+        "Lesson": "19"
+        
+    },
+    {
+    
+        "id": 5,
+        "name": "Shahin Uddin",
+        "title": "Economics & Finance",
+        "category": "Business",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-2.jpg",
+        "detail": "Master essential business concepts and practical skills to take...",
+        "student": "118",
+        "price": "16.00",
+        "review": "4.6",
+        "Lesson": "26"
+        
+    },
+    {
+    
+        "id": 6,
+        "name": "Shamim Uddin(Selim)",
+        "title": "Social Sciences",
+        "category": "Social Sciences",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-6.jpg",
+        "detail": "Enroll in free online courses in the social sciences including...",
+        "student": "320",
+        "price": "Free",
+        "review": "4.8",
+        "Lesson": "28"
+        
+    },
+    {
+    
+        "id": 7,
+        "name": "Suleman Hussain",
+        "title": "Digital Marketing",
+        "category": "Marketing",
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-4.jpg",
+        "detail": "The business Intelligence analyst Course 2022field used to gain insights from...",
+        "student": "120",
+        "price": "29.00",
+        "review": "4.5",
+        "Lesson": "29"
+        
+    },
+    {
+    
+        "id": 8,
+        "name": "Mahbubul Huda Khan",
+        "title": "Data Analysis & Statistics",
+        "category": "Data Science",
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-6.jpg",
+        "detail": "Build your media and Public presence field used to gain insights from...",
+        "student": "120",
+        "price": "20.00",
+        "review": "4.5 (42)",
+        "Lesson": "22"
+        
+    },
+    {
+    
+        "id": 9,
+        "name": "Nizam Uddin Shahed",
+        "title": "Data Analysis & Statistics",
+        "category": "Data Science",
+        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-3.jpg",
+        "detail": "Data science is a multifaceted field used to gain insights from...",
+        "student": "120",
+        "price": "20.00",
+        "review": "4.5 (42)",
+        "Lesson": "22"
+        
+    }
+]
