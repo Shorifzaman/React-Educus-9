@@ -9,6 +9,7 @@ import Service from './components/Service/Service';
 import Contact from './components/Contact/Contact';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import NotFound from './components/NotFound/NotFound';
+import ServiceSlice from './components/Service/ServiceSlice';
 
 
 
@@ -26,7 +27,7 @@ function App() {
             <About></About>
           </Route>
           <Route path='/service'>
-            <Service></Service>
+            <ServiceSlice></ServiceSlice>
           </Route>
           <Route path='/contact'>
             <Contact></Contact>

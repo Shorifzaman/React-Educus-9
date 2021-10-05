@@ -34,7 +34,7 @@
         "name": "Khaled Ahmed",
         "title": "Business & Management",
         "category": "Business",
-        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-2.jpg",
+        "img": "https://thumbs.dreamstime.com/b/two-leader-bussiness-women-discussing-charts-graphs-showing-results-two-leader-bussiness-women-discussing-charts-150428169.jpg",
         "detail": "Master essential business concepts and practical skills to take...",
         "student": "213",
         "price": "23.00",
@@ -76,7 +76,7 @@
         "name": "Shamim Uddin(Selim)",
         "title": "Social Sciences",
         "category": "Social Sciences",
-        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-6.jpg",
+        "img": "https://www.import.io/wp-content/uploads/2019/09/data-analysis-blog.jpg",
         "detail": "Enroll in free online courses in the social sciences including...",
         "student": "320",
         "price": "Free",
@@ -102,7 +102,7 @@
     
         "id": 8,
         "name": "Mahbubul Huda Khan",
-        "title": "Data Analysis & Statistics",
+        "title": "Programming",
         "category": "Data Science",
         "img": "https://themepure.net/template/educal/educal/assets/img/course/course-6.jpg",
         "detail": "Build your media and Public presence field used to gain insights from...",
@@ -116,12 +116,12 @@
     
         "id": 9,
         "name": "Nizam Uddin Shahed",
-        "title": "Data Analysis & Statistics",
+        "title": "Data Analysis",
         "category": "Data Science",
-        "img": "https://demo.voidcoders.com/htmldemo/educus/main-files/assets/img/courses/cci-3.jpg",
+        "img": "https://media-exp1.licdn.com/dms/image/C4D1BAQG1CsFWMismng/company-background_10000/0/1545256625067?e=2159024400&v=beta&t=6vrZkC7ZoQmnrgPqpg58B8oisQWPzw3eqDT2-uXkYJA",
         "detail": "Data science is a multifaceted field used to gain insights from...",
         "student": "120",
-        "price": "20.00",
+        "price": "25.00",
         "review": "4.5 (42)",
         "Lesson": "22"
         

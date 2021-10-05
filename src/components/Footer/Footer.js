@@ -10,7 +10,7 @@ const Footer = () => {
     return (
         <div>
             <div className="bg-light text-center p-2 bgfooter">
-                © All right reserved by || <Link href="/home"><img className="logo" src={logo} alt="" />Active</Link>
+                © All right reserved by || <Link href="/home"><img className="logo" src={logo} alt="" /></Link>
             </div>
         </div>
     );

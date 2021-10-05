@@ -4,9 +4,9 @@ import './Home.css'
 import { Card, Col, Row } from 'react-bootstrap';
 import Service from '../Service/Service';
 import Contact from '../Contact/Contact';
+import SayAbout from '../SayAbout/SayAbout';
 
 const Home = () => {
-
 
     return (
         <div>
@@ -20,6 +20,7 @@ const Home = () => {
             </div>
             
             <Service />
+
             <Contact></Contact>
         </div>
     );

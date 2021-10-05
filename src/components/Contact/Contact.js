@@ -1,6 +1,7 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
 import { Form } from 'react-bootstrap';
+import './Contact.css'
 
 const Contact = () => {
     return (
@@ -28,6 +29,8 @@ const Contact = () => {
                     Submit
                 </Button>
             </Form>
+
+
         </div>
     );
 };

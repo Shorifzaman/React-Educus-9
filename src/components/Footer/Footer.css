@@ -1,6 +1,9 @@
 .logo{
     width: 180px;
+    color: linen;
 }
 .bgfooter{
-    background-color: lightseagreen !important;
+    color: linen;
+    background: linear-gradient(90deg, rgba(175,0,255,1) 0%, rgb(80, 9, 77) 69%, rgba(244,3,3,0.9780287114845938) 97%) !important;
+
 }

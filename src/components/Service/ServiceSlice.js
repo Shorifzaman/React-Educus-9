@@ -4,8 +4,7 @@ import { Row } from 'react-bootstrap';
 import './Service.css'
 import ServiceDetails from '../ServiceDetails/ServiceDetails';
 
-
-const Service = () => {
+const ServiceSlice = () => {
     const [services, setServices] = useState([]);
     console.log("services.slice(1, 3);", services.slice(1, 4));
 
@@ -20,10 +19,10 @@ const Service = () => {
         <div className="s-margin">
             <h1 className="container mb-2 my-5 text-danger">Services</h1>
             <div className='container mb-2'>
-                <Row xs={1} md={4} className="g-2 ">
+                <Row xs={1} md={3} className="g-2 ">
                     {
                         
-                        services.slice(3, 7).map(service => <ServiceDetails service={service}
+                        services.map(service => <ServiceDetails service={service}
                             key={service.id}/>)
                     }
                     
@@ -33,54 +32,4 @@ const Service = () => {
     );
 };
 
-export default Service;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* import React from 'react';
-import { Card, Col, Row } from 'react-bootstrap';
-
-const Service = (props) => {
-    console.log(props.service);
-    const { id, name, image, Details } = props.service;
-    return (
-        <div>
-            <Col>
-                <Card>
-                    <Card.Img variant="top" src={image} />
-                    <Card.Body>
-                        <Card.Title>{name}</Card.Title>
-                        <Card.Text>
-                            {Details}
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-            </Col>
-        </div>
-    );
-};
-
-export default Service;
-
-
- */
+export default ServiceSlice;
